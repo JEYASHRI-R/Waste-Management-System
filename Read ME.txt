@@ -1,0 +1,42 @@
+Waste Management System
+
+User Registration Module
+  Input validation
+  Database to store user credentials
+  Password Encryption
+
+User Login Module
+  Authentication for login
+  
+Gen AI powered Chatbot Module
+  built using Large language model to enhance precision of search results based on meaning & context
+  delves deeper into the intent behind the search query
+  Natural Language Processing (NLP) to analyze and comprehend the semantics of words and phrases in the vast content
+
+Waste Collection Shedule Module
+  Intimation of waste collection date and time
+  Notification
+  Updation after collection
+
+Profile & Reward Points Module
+  Reward point for proper waste segregation
+  Received certificates
+  Participated events
+
+Reports & Complaint Module
+  Feedback
+  Complaint on waste not collected & Proper Response
+
+Community Engagement Module 
+  Competitions
+  Workshops
+  Community meetings 
+  Reward Ceremony
+  
+About Module 
+  Community Heads
+  Vision
+  Mission
+  Achievements
+  Works carried out
+
